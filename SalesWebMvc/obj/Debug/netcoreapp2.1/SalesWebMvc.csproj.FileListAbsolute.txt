@@ -33,3 +33,4 @@ C:\Google Drive\Curso C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWe
 C:\Google Drive\Curso C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Google Drive\Curso C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Google Drive\Curso C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Google Drive\Curso C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
