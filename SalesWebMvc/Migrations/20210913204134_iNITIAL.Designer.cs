@@ -3,13 +3,13 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using SalesWebMvc.Data;
+using SalesWebMvc.Models;
 
 namespace SalesWebMvc.Migrations
 {
     [DbContext(typeof(SalesWebMvcContext))]
-    [Migration("20210902004706_Initial")]
-    partial class Initial
+    [Migration("20210913204134_iNITIAL")]
+    partial class iNITIAL
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
